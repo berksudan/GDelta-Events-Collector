@@ -1,0 +1,11 @@
+# Ignore virtual environment directory
+venv
+
+# Ignore cached Python directory
+__pycache__
+
+# Ignore Intellij IDEA IDE directory
+.idea
+
+# Ignore Notebook checkpoints
+notebooks/.ipynb_checkpoints
